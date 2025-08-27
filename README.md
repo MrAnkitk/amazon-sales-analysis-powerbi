@@ -55,7 +55,7 @@ This dataset captures the **complete lifecycle of orders** – from purchase to 
 - **Courier Status** – Shipped, cancelled, pending orders  
 - **Regional Map** – Orders by state across India  
 
-*![Sales Dashboard](https://raw.githubusercontent.com/username/repo/main/images/sales_dashboard.png)*  
+*![Sales Dashboard](https://github.com/MrAnkitk/amazon-sales-analysis-powerbi/blob/main/amazon_sales_dashboard.jpg?raw=true)*  
 
 ---
 

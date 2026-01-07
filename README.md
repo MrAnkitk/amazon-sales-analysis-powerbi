@@ -61,7 +61,10 @@ This dataset captures the **complete lifecycle of orders** – from purchase to 
 
 ## 💡 Strategic Recommendations  
 - Focus inventory on **high-demand SKUs (T-shirts, M & XXL sizes)**  
-
+- Strengthen presence in **Telangana, Uttar Pradesh, and Tamil Nadu**  
+- Shift more orders to **Amazon FBA/Ekart** for reliability  
+- Explore **multi-channel sales expansion** (Flipkart, Myntra, D2C website)  
+- Maintain low cancellation rates via **proactive communication & logistics**  
 
 ---
 

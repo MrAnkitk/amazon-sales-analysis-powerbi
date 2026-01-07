@@ -60,6 +60,7 @@ This dataset captures the **complete lifecycle of orders** – from purchase to 
 ---
 
 ## 💡 Strategic Recommendations  
+- Focus inventory on **high-demand SKUs (T-shirts, M & XXL sizes)**  
 
 
 ---

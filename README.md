@@ -1,5 +1,6 @@
 # 📊 Amazon Sales Analytics – Power BI Project  
 
+## 🔎 Project Overview  
 This project analyzes **20K+ Amazon sales transactions** using **Power BI** to uncover insights on product performance, regional demand, fulfillment efficiency, and customer experience.  
 The aim was to convert raw transactional data into **interactive dashboards** and generate **strategic recommendations** for e-commerce growth.  
 
